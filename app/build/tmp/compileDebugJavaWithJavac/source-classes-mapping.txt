@@ -1,0 +1,25 @@
+Van064886/demo/databinding/CalculatriceBinding.java
+ Van064886.demo.databinding.CalculatriceBinding
+Van064886/demo/BuildConfig.java
+ Van064886.demo.BuildConfig
+Van064886/demo/FirstFragment.java
+ Van064886.demo.FirstFragment
+ Van064886.demo.FirstFragment$1
+Van064886/demo/MainActivity.java
+ Van064886.demo.MainActivity
+ Van064886.demo.MainActivity$1
+Van064886/demo/databinding/FragmentSecondBinding.java
+ Van064886.demo.databinding.FragmentSecondBinding
+Van064886/demo/SecondFragment.java
+ Van064886.demo.SecondFragment
+ Van064886.demo.SecondFragment$1
+Van064886/demo/databinding/ActivityCalcultariceBinding.java
+ Van064886.demo.databinding.ActivityCalcultariceBinding
+Van064886/demo/databinding/ActivityMainBinding.java
+ Van064886.demo.databinding.ActivityMainBinding
+Van064886/demo/databinding/ContentMainBinding.java
+ Van064886.demo.databinding.ContentMainBinding
+Van064886/demo/databinding/FragmentFirstBinding.java
+ Van064886.demo.databinding.FragmentFirstBinding
+Van064886/demo/calcultarice.java
+ Van064886.demo.calcultarice

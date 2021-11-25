@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/van/AndroidStudioProjects/Demo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/home/van/AndroidStudioProjects/Demo/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/home/van/AndroidStudioProjects/Demo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/van/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/van/AndroidStudioProjects/Demo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_calcultarice.xml",
+        "source": "/home/van/AndroidStudioProjects/Demo/app/src/main/res/layout/activity_calcultarice.xml"
+    },
+    {
+        "merged": "/home/van/AndroidStudioProjects/Demo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/home/van/AndroidStudioProjects/Demo/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/van/AndroidStudioProjects/Demo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/home/van/AndroidStudioProjects/Demo/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/van/AndroidStudioProjects/Demo/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/calculatrice.xml",
+        "source": "/home/van/AndroidStudioProjects/Demo/app/src/main/res/layout/calculatrice.xml"
+    }
+]
